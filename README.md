@@ -1,1 +1,1 @@
-My first game created in Godot
+My first game made in Godot
